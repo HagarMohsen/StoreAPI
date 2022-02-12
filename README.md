@@ -153,16 +153,16 @@
 
 ## Environment Variables 
 
- -- they will take that form:
-    POSTGRES_HOST=
-    POSTGRES_DB=
-    POSTGRES_TEST_DB=
-    POSTGRES_USER=
-    POSTGRES_PASSWORD=
-    PEPPER=
-    SALT_ROUNDS=
-    TOKEN=
-    ENV=dev
+      -- they will take that form:
+       POSTGRES_HOST=
+       POSTGRES_DB=
+       POSTGRES_TEST_DB=
+       POSTGRES_USER=
+       POSTGRES_PASSWORD=
+       PEPPER=
+       SALT_ROUNDS=
+       TOKEN=
+       ENV=dev
 
 
 
