@@ -152,8 +152,7 @@
  -- After finishing all tests, all tables will be droped automatically
 
 ## Environment Variables 
-
-      -- they will take that form:
+    -- they will take that form:
        POSTGRES_HOST=
        POSTGRES_DB=
        POSTGRES_TEST_DB=
